@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: af1121b486857474f9f22b0db2fd75b1
+timeCreated: 1467784151
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Foliage_01_0
+    21300002: Foliage_01_1
+    21300004: Foliage_01_2
+    21300006: Foliage_01_3
+    21300008: Foliage_01_6
+    21300010: Foliage_01_7
+    21300012: Foliage_01_8
+    21300014: Foliage_01_9
+    21300016: Foliage_01_10
+    21300018: Foliage_01_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Foliage_01_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 44
+        height: 90
+      alignment: 9
+      pivot: {x: 0.47554275, y: 0.029319594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 30
+        height: 90
+      alignment: 9
+      pivot: {x: 0.52730614, y: 0.053018697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 142
+        width: 21
+        height: 91
+      alignment: 9
+      pivot: {x: 0.449335, y: 0.029505802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 77
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5068615, y: 0.14122462}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 151
+        width: 88
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46367246, y: 0.10001831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 91
+        height: 56
+      alignment: 9
+      pivot: {x: 0.48111734, y: 0.117169105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 27
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4908342, y: 0.032852236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4950474, y: 0.045413956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 10
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.46736145, y: 0.09782907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foliage_01_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 46
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5089055, y: 0.054004047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

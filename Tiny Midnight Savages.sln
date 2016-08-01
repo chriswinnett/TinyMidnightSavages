@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiny Midnight Savages.CSharp", "Tiny Midnight Savages.CSharp.csproj", "{359D0379-9477-024E-C08B-370387393F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiny Midnight Savages.CSharp.Editor", "Tiny Midnight Savages.CSharp.Editor.csproj", "{1BD7EADC-8FED-C9B2-B9F4-BAFBA426CAEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359D0379-9477-024E-C08B-370387393F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359D0379-9477-024E-C08B-370387393F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359D0379-9477-024E-C08B-370387393F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359D0379-9477-024E-C08B-370387393F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD7EADC-8FED-C9B2-B9F4-BAFBA426CAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD7EADC-8FED-C9B2-B9F4-BAFBA426CAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD7EADC-8FED-C9B2-B9F4-BAFBA426CAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD7EADC-8FED-C9B2-B9F4-BAFBA426CAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

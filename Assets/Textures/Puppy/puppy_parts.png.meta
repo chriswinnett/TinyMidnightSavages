@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 3623d61033b17104aa5f6d4ef09d85a0
+timeCreated: 1469899625
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: big foot puppy hold
+    21300002: puppy full
+    21300004: puppy projectile
+    21300006: puppy right ear
+    21300008: puppy_parts_4
+    21300010: puppy left ear
+    21300012: puppy tongue
+    21300014: puppy torso
+    21300016: puppy tail
+    21300018: puppy right front leg
+    21300020: puppy left front leg
+    21300022: puppy right back leg
+    21300024: puppy left back leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big foot puppy hold
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 154
+        width: 413
+        height: 483
+      alignment: 9
+      pivot: {x: 0.51913863, y: 0.19140486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy full
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 425
+        width: 169
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy projectile
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 419
+        width: 512
+        height: 202
+      alignment: 9
+      pivot: {x: 0.22652721, y: 0.24845071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy right ear
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 294
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.927256, y: 0.5297161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy_parts_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 249
+        width: 123
+        height: 106
+      alignment: 9
+      pivot: {x: 0.61934406, y: 0.052589994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy left ear
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 279
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.16124634, y: 0.6152225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy tongue
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 156
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46357578, y: 0.9065039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy torso
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 149
+        width: 92
+        height: 76
+      alignment: 9
+      pivot: {x: 0.7822942, y: 0.27713576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy tail
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 181
+        width: 27
+        height: 49
+      alignment: 9
+      pivot: {x: 0.29089355, y: 0.10824429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy right front leg
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 100
+        width: 17
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4335794, y: 0.917306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy left front leg
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 97
+        width: 17
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4335794, y: 0.8927589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy right back leg
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 96
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46948242, y: 0.9065042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: puppy left back leg
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 96
+        width: 37
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9125847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

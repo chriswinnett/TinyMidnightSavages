@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 0bf5c9401c8438d4aa45dc063af9430a
+timeCreated: 1469380613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SavageBabyAttacks_pieces_0
+    21300002: SavageBabyAttacks_pieces_1
+    21300004: SavageBabyAttacks_pieces_2
+    21300006: SavageBabyAttacks_pieces_3
+    21300008: SavageBabyAttacks_pieces_4
+    21300010: SavageBabyAttacks_pieces_5
+    21300012: SavageBabyAttacks_pieces_6
+    21300014: SavageBabyAttacks_pieces_7
+    21300016: SavageBabyAttacks_pieces_8
+    21300018: SavageBabyAttacks_pieces_9
+    21300020: SavageBabyAttacks_pieces_10
+    21300022: SavageBabyAttacks_pieces_11
+    21300024: SavageBabyAttacks_pieces_12
+    21300026: SavageBabyAttacks_pieces_13
+    21300028: SavageBabyAttacks_pieces_14
+    21300030: SavageBabyAttacks_pieces_15
+    21300032: SavageBabyAttacks_pieces_16
+    21300034: SavageBabyAttacks_pieces_17
+    21300036: SavageBabyAttacks_pieces_18
+    21300038: SavageBabyAttacks_pieces_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1278
+        width: 975
+        height: 320
+      alignment: 9
+      pivot: {x: 0.97218734, y: 0.09000893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_1
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 996
+        width: 536
+        height: 603
+      alignment: 9
+      pivot: {x: 0.59790814, y: 0.08463117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_2
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 900
+        width: 386
+        height: 695
+      alignment: 9
+      pivot: {x: 0.8646082, y: 0.91530025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_3
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1248
+        width: 364
+        height: 351
+      alignment: 9
+      pivot: {x: 0.17233512, y: 0.08544261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 981
+        width: 378
+        height: 239
+      alignment: 9
+      pivot: {x: 0.051948182, y: 0.5199613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 974
+        width: 389
+        height: 219
+      alignment: 9
+      pivot: {x: 0.0707501, y: 0.5326764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_6
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 810
+        width: 248
+        height: 367
+      alignment: 9
+      pivot: {x: 0.47114414, y: 0.40900356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_7
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 889
+        width: 107
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5445842, y: 0.93624085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 696
+        width: 95
+        height: 222
+      alignment: 9
+      pivot: {x: 0.32423335, y: 0.8975668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 687
+        width: 334
+        height: 229
+      alignment: 9
+      pivot: {x: 0.45714837, y: 0.52083296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_10
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 694
+        width: 151
+        height: 178
+      alignment: 9
+      pivot: {x: 0.15245773, y: 0.8752318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 298
+        width: 780
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_12
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 713
+        width: 101
+        height: 154
+      alignment: 9
+      pivot: {x: 0.45276362, y: 0.8717509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_13
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 507
+        width: 251
+        height: 275
+      alignment: 9
+      pivot: {x: 0.38595667, y: 0.04026789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_14
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 488
+        width: 255
+        height: 287
+      alignment: 9
+      pivot: {x: 0.42516372, y: 0.03455547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 48
+        width: 490
+        height: 572
+      alignment: 9
+      pivot: {x: 0.4610547, y: 0.024587631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_16
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 571
+        width: 80
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4701828, y: 0.91321903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 331
+        height: 404
+      alignment: 9
+      pivot: {x: 0.44234675, y: 0.027643071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_18
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 123
+        width: 375
+        height: 314
+      alignment: 9
+      pivot: {x: 0.061085936, y: 0.46201593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SavageBabyAttacks_pieces_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 20
+        width: 96
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

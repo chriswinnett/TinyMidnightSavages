@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: d25f327a658936b438cb9fc113f646ac
+timeCreated: 1469419780
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MachoRanger_0
+    21300002: MachoRanger_1
+    21300004: MachoRanger_2
+    21300006: MachoRanger_3
+    21300008: MachoRanger_4
+    21300010: MachoRanger_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.38198617, y: 0.56234694}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MachoRanger_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 238
+        width: 302
+        height: 272
+      alignment: 9
+      pivot: {x: 0.6132508, y: 0.20241143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MachoRanger_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 300
+        width: 153
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5372566, y: 0.76506364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MachoRanger_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 109
+        width: 204
+        height: 118
+      alignment: 9
+      pivot: {x: 0.8958987, y: 0.48091656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MachoRanger_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 199
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MachoRanger_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 4
+        width: 158
+        height: 85
+      alignment: 9
+      pivot: {x: 0.9437567, y: 0.60059386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MachoRanger_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 56
+        width: 106
+        height: 137
+      alignment: 9
+      pivot: {x: 0.59679747, y: 0.95768774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
